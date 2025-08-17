@@ -1,1 +1,1 @@
-
+2025-08-17 20:59:21,535 | INFO | Order placed: {'DRY_RUN': True, 'payload': {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}}
